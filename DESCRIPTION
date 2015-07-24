@@ -1,0 +1,12 @@
+Package: RnBeads.hg38
+Title: RnBeads.hg38
+Description: Automatically generated RnBeads annotation package for the assembly hg38.
+Author: RnBeadsAnnotationCreator
+Maintainer: RnBeadsAnnotationCreator <rnbeads@mpi-inf.mpg.de>
+Date: 2015-05-24
+License: GPL-3
+Version: 1.0.1
+Depends: R (>= 3.0.0), GenomicRanges
+Suggests: RnBeads
+NeedsCompilation: no
+Packaged: 2015-05-25 11:52:52 UTC; assenov
