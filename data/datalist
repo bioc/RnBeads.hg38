@@ -1,3 +1,6 @@
 CpG: sites
 hg38
+probes450: sites
+probesEPIC: sites
+probesEPICv2: sites
 regions
