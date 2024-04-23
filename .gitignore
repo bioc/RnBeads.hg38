@@ -1,0 +1,16 @@
+.DS_Store
+*.sublime-project
+*.project
+*.log
+*.aux
+*.fls
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+sftp-config.json
+~$*
