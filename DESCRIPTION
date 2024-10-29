@@ -5,7 +5,7 @@ Author: RnBeads Team
 Maintainer: RnBeads Team <team@rnbeads.org>
 Date: 2024-04-16
 License: GPL-3
-Version: 1.38.0
+Version: 1.39.0
 Depends: R (>= 3.5.0), GenomicRanges
 Suggests: RnBeads
 NeedsCompilation: no
