@@ -3,9 +3,9 @@ Title: RnBeads.hg38
 Description: RnBeads annotation package for the assembly hg38.
 Author: RnBeads Team
 Maintainer: RnBeads Team <team@rnbeads.org>
-Date: 2025-03-12
+Date: 2025-07-23
 License: GPL-3
-Version: 1.41.0
+Version: 1.41.1
 Depends: 
 	R (>= 3.5.0),	GenomicRanges
 Suggests: 
