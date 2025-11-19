@@ -15,3 +15,8 @@
 sftp-config.json
 ~$*
 .Rproj.user
+update_annotation.R
+.Rbuildignore
+.gitignore
+RnBeads.hg38.Rproj
+
