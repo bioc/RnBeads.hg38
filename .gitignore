@@ -19,4 +19,5 @@ update_annotation.R
 .Rbuildignore
 .gitignore
 RnBeads.hg38.Rproj
-
+12864_2024_10027_MOESM4_ESM.csv
+cross_reactive_Peters_EPICv2.csv
